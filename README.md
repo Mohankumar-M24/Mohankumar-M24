@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://incredible-biscuit-eda070.netlify.app/](https://incredible-biscuit-eda070.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, TAILWINDCSS, JAVASCRIPT, NODEJS**
+- 💬 Ask me about **TAILWINDCSS, JAVASCRIPT, NODEJS, EXPRESSJS, MONGODB, MYSQL, REACTJS HTML, CSS,**
 
 - 📫 How to reach me **1726k0146@gmail.com**
 
