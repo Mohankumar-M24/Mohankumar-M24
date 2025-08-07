@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohankumar-m24" alt="mohankumar-m24" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack development**
+- 🌱 I’m now **Fullstack developer**
 
-- 💬 Ask me about **HTML, CSS, TAILWINDCSS, JAVASCRIPT, NODEJS**
+- 💬 Ask me about **HTML, CSS, TAILWINDCSS, JAVASCRIPT, NODEJS, REACTJS, MONGODB, SQL, EXPRESSJS**
 
 - 📫 How to reach me **1726k0146@gmail.com**
 
